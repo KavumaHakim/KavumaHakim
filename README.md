@@ -6,7 +6,7 @@
 
 Finding out about the gh tool:
 
-Hearing about the gh tool, my first instinct took me to google search engine where I discovered what the tool is, what it is used for and how I can leverage it to boost productivity by doing my work in the command line without shuffling through webpage on the browser.
+Hearing about the gh tool, my first instinct took me to google search engine where I discovered what the tool is, what it is used for and how I can leverage it to boost productivity by doing my work in the command line without shuffling through webpages on the browser.
 
 ## Installation:
 
