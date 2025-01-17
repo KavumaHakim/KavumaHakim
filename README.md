@@ -10,4 +10,4 @@ Authenticated with credentials
 
 ## Created repo
 
-made the repo with ```gh repo create sth --public --source=.```
+made the repo with ```gh repo create KavumaHakim --public --source=.```
