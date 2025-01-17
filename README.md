@@ -40,7 +40,7 @@ Created the repo on Github with:
 
 Then connected the local repo to the remote with:
 
-*git remote add origin [https://github.com/KavumaHakim/KavumaHakim.git*](https://github.com/KavumaHakim/KavumaHakim.git)*
+*git remote add origin [https://github.com/KavumaHakim/KavumaHakim.git](https://github.com/KavumaHakim/KavumaHakim.git)*
 
 ![](Aspose.Words.48cf3ced-ea75-4564-8bb6-5687b04e0f1d.004.png)
 
