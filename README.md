@@ -1,22 +1,22 @@
-﻿**Using the Gh GitHub CLI tool to manage Github Repositories.**
+﻿# Using the Gh GitHub CLI tool to manage Github Repositories.
 
 -----
 
-**Introduction:**
+## Introduction:
 
 Finding out about the gh tool:
 
-`	`Hearing about the gh tool, my first instinct took me to google search engine where I discovered what the tool is, what it is used for and how I can leverage it to boost productivity by doing my work in the command line without shuffling through webpage on the browser.
+Hearing about the gh tool, my first instinct took me to google search engine where I discovered what the tool is, what it is used for and how I can leverage it to boost productivity by doing my work in the command line without shuffling through webpage on the browser.
 
-**Installation:**
+## Installation:
 
 To install the tool the first google search result led to a github releases page for the tool with a list of links for builds of various operating systems.
 
 Another link also included a documentation page found here: [documentation](https://cli.github.com/manual/)
 
-**Assignment:**
+## Assignment:
 
-` `On the terminal, I created a new Repository with my name as the folder names.
+On the terminal, I created a new Repository with my name as the folder names.
 
 *>>mkdir KavumaHakim*
 
@@ -28,7 +28,7 @@ Another link also included a documentation page found here: [documentation](http
 
 Then I logged into my github account through the gh tool with the command:
 
-` `*```gh auth login```* 
+*```gh auth login```* 
 
 ![](Aspose.Words.48cf3ced-ea75-4564-8bb6-5687b04e0f1d.002.png)
 
