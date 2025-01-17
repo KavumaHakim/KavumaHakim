@@ -18,11 +18,11 @@ Another link also included a documentation page found here: [documentation](http
 
 On the terminal, I created a new Repository with my name as the folder names.
 
-*>>mkdir KavumaHakim*
+*>>```mkdir KavumaHakim```*
 
-*>>cd KavumaHakim/*
+*>>```cd KavumaHakim/```*
 
-*>>git init*
+*>>```git init```*
 
 ![](Aspose.Words.48cf3ced-ea75-4564-8bb6-5687b04e0f1d.001.png)
 
