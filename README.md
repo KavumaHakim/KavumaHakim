@@ -10,7 +10,7 @@ Hearing about the gh tool, my first instinct took me to google search engine whe
 
 ## Installation:
 
-To install the tool the first google search result led to a github releases page for the tool with a list of links for builds of various operating systems.
+To install the tool the first google search result led to a github releases page for the tool with a list of links for builds of various operating systems. [Download Link](https://github.com/cli/cli/releases/latest)
 
 Another link also included a documentation page found here: [documentation](https://cli.github.com/manual/)
 
