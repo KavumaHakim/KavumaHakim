@@ -18,21 +18,21 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 Hi! I’m **Hakim**, a developer from **Uganda 🇺🇬**.  
 I enjoy transforming ideas into working software and learning deeply by building real, practical projects.
 
-- 🧠 Curious, hands-on problem solver  
+-  Curious, hands-on problem solver  
 - 🐍 Python is my primary tool  
 - 🌐 Exploring web and backend development  
-- 🔧 I value simple, readable, and efficient code  
+-  I value simple, readable, and efficient code  
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
-### 💻 Programming Languages
+###  Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
@@ -40,7 +40,7 @@ I enjoy transforming ideas into working software and learning deeply by building
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
 </p>
 
-### 📦 Python Frameworks & Libraries
+###  Python Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
@@ -49,7 +49,7 @@ I enjoy transforming ideas into working software and learning deeply by building
   <img src="https://img.shields.io/badge/Kivy-2C2C2C?style=for-the-badge"/>
 </p>
 
-### 🧰 Tools
+###  Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -89,7 +89,7 @@ A hands-on repository for practicing Git and GitHub workflows.
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Python design patterns and clean architecture
 - Backend development with FastAPI and Django
