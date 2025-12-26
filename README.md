@@ -1,47 +1,102 @@
-﻿# Using the Gh GitHub CLI tool to manage Github Repositories.
+<!-- ===================== -->
+<!-- 🌈 PROFILE BANNER -->
+<!-- ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Kavuma%20Hakim&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
------
+<!-- ===================== -->
+<!-- 👋 INTRO ANIMATION -->
+<!-- ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Python+Developer;Web+Developer;Learning+Every+Day;Building+Fun+and+Useful+Projects" />
+</p>
 
-## Introduction:
+---
 
-Finding out about the gh tool:
+## 👨‍💻 About Me
 
-Hearing about the gh tool, my first instinct took me to google search engine where I discovered what the tool is, what it is used for and how I can leverage it to boost productivity by doing my work in the command line without shuffling through webpages on the browser.
+Hi! I’m **Hakim**, a developer from **Uganda 🇺🇬**.  
+I enjoy turning ideas into working code and learning by building real projects.
 
-## Installation:
+- 🧠 Curious and hands-on learner  
+- 🐍 Python is my main tool  
+- 🌐 Exploring web development  
+- 🔧 Love simple tools that solve real problems  
 
-To install the tool the first google search result led to a github releases page for the tool with a list of links for builds of various operating systems. [Download Link](https://github.com/cli/cli/releases/latest)
+---
 
-Another link also included a documentation page found here: [documentation](https://cli.github.com/manual/)
+## 🛠️ Languages & Tools
 
-## Assignment:
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+</p>
 
-On the terminal, I created a new Repository with my name as the folder names.
+### 📦 Python Modules & Libraries
+<p>
+  <img src="https://img.shields.io/badge/collections-3776AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/random-3776AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/os-3776AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/sys-3776AB?style=flat-square"/>
+</p>
 
-*>>```mkdir KavumaHakim```*
+### 🧰 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+</p>
 
-*>>```cd KavumaHakim/```*
+---
 
-*>>```git init```*
+## 🔭 Featured Projects
 
-![](Aspose.Words.48cf3ced-ea75-4564-8bb6-5687b04e0f1d.001.png)
+### 🕒 Timer  
+A simple Python timer for tracking time.
 
-Then I logged into my github account through the gh tool with the command:
+### 📋 Clip  
+A Python clipboard manager that stores and recalls multiple clipboard entries.
 
-*```gh auth login```* 
+### 🎮 Gamify  
+An experimental project focused on making learning more engaging.
 
-![](Aspose.Words.48cf3ced-ea75-4564-8bb6-5687b04e0f1d.002.png)
+### 📘 LearningGit  
+A hands-on repository for practicing Git and GitHub workflows.
 
-Created the repo on Github with:
+👉 Explore more in the **Repositories** tab.
 
-*```gh repo create KavumaHakim --public --source=.```*
+---
 
-![](Aspose.Words.48cf3ced-ea75-4564-8bb6-5687b04e0f1d.003.png)
+## 📈 GitHub Activity (Live)
 
-Then connected the local repo to the remote with:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KavumaHakim&show_icons=true&theme=tokyonight" />
+</p>
 
-*git remote add origin [https://github.com/KavumaHakim/KavumaHakim.git](https://github.com/KavumaHakim/KavumaHakim.git)*
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KavumaHakim&theme=tokyonight" />
+</p>
 
-![](Aspose.Words.48cf3ced-ea75-4564-8bb6-5687b04e0f1d.004.png)
+---
 
-*The Repo can be found here: [**Repo**](https://github.com/KavumaHakim/KavumaHakim)*
+## 🌱 Currently Learning
+
+- Advanced Python patterns
+- Web development fundamentals
+- Writing cleaner, more readable code
+
+---
+
+## 🤝 Let’s Connect
+
+- 💬 Open to collaboration
+- ⭐ Open to learning
+- 🛠️ Open to building
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer"/>
+</p>
