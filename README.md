@@ -40,10 +40,11 @@ I enjoy transforming ideas into working software and learning deeply by building
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
 </p>
 
-###  Python Frameworks & Libraries
+###  Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
+  <img src="https://img.shields.io/badge/React-009688?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
   <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/Kivy-2C2C2C?style=for-the-badge"/>
