@@ -38,10 +38,11 @@ I enjoy turning ideas into working code and learning by building real projects.
 
 ### 📦 Python Modules & Libraries
 <p>
-  <img src="https://img.shields.io/badge/collections-3776AB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/random-3776AB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/os-3776AB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/sys-3776AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pandas-3776AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/tkinter-3776AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FastAPI-3776AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Kivy-3776AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Django-3776AB?style=flat-square"/>
 </p>
 
 ### 🧰 Tools
@@ -73,9 +74,6 @@ A hands-on repository for practicing Git and GitHub workflows.
 
 ## 📈 GitHub Activity (Live)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KavumaHakim&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=KavumaHakim&theme=tokyonight" />
@@ -88,6 +86,7 @@ A hands-on repository for practicing Git and GitHub workflows.
 - Advanced Python patterns
 - Web development fundamentals
 - Writing cleaner, more readable code
+- Data science
 
 ---
 
