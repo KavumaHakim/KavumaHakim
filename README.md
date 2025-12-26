@@ -84,7 +84,7 @@ A hands-on repository for practicing Git and GitHub workflows.
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KavumaHakim&theme=tokyonight" />
+    <img src="https://streak-stats.demolab.com?user=KavumaHakim&theme=tokyonight&hide_border=true&mode=yearly" />
 </p>
 
 ---
