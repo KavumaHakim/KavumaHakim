@@ -3,14 +3,14 @@
 </p>
 
 <!-- ===================== -->
-<!-- 👋 INTRO ANIMATION -->
+<!--  INTRO ANIMATION -->
 <!-- ===================== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Python+Developer;Web+Developer;Backend+Explorer;Learning+by+Building;Turning+Ideas+Into+Code" />
 </p>
 
 <!-- ===================== -->
-<!-- 👀 VISITOR COUNTER -->
+<!--  VISITOR COUNTER -->
 <!-- ===================== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KavumaHakim&style=flat-square&color=blue"/>
@@ -24,9 +24,9 @@ Hi! I’m **Hakim**, a developer from **Uganda 🇺🇬**.
 I enjoy transforming ideas into working software and learning deeply by building real, practical projects.
 
 -  Curious, hands-on problem solver  
-- 🐍 Python is my primary tool  
-- 🌐 Exploring web and backend development  
--  I value simple, readable, and efficient code  
+- Python is my primary tool  
+- Exploring web and backend development  
+- I value simple, readable, and efficient code  
 
 ---
 
@@ -60,23 +60,6 @@ I enjoy transforming ideas into working software and learning deeply by building
 
 ---
 
-## 🔭 Featured Projects
-
-### 🕒 Timer  
-A simple Python timer utility for tracking elapsed time.
-
-### 📋 Clip  
-A Python clipboard manager that stores and recalls multiple clipboard entries efficiently.
-
-### 🎮 Gamify  
-An experimental project focused on making learning more engaging through game-like mechanics.
-
-### 📘 LearningGit  
-A hands-on repository for practicing Git and GitHub workflows.
-
-👉 Explore more in the **Repositories** tab.
-
----
 
 ## 📈 GitHub Activity
 
@@ -97,6 +80,7 @@ A hands-on repository for practicing Git and GitHub workflows.
 - Backend development with FastAPI and Django
 - Data analysis and introductory data science workflows
 - Writing efficient, readable, and testable code
+- AI and Machine Learning
 
 ---
 
